@@ -1,0 +1,14 @@
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.AssemblyInfoInputs.cache
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.AssemblyInfo.cs
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.exe
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.deps.json
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.runtimeconfig.json
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.dll
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.pdb
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.dll
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\refint\Personal Task Manager.dll
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.pdb
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.genruntimeconfig.cache
+C:\Users\aashik.robinson\Desktop\L0-OOPS\Personal Task Manager\obj\Debug\net8.0\ref\Personal Task Manager.dll
